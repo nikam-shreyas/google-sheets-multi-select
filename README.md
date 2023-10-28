@@ -1,5 +1,7 @@
 # Google Sheet Multi Select Script
 
+For detailed step-by-step instructions on how to enable multipic on your Google Sheets, please refer to [this guide](https://example.com/multipic-setup-guide).
+
 This code provides a Google Apps Script for handling multiple selections in a Google Sheets document. It includes two functions: `handleMultipleSelection` and `onEdit`. The code assumes that you are creating a column containing the multi select dropdowns and display the corresponding values in the column next to it. Changes might be needed if your use case is different.
 
 ## `handleMultipleSelection`
